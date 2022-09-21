@@ -10,7 +10,7 @@ function stars(){
 
         star.style.left = x + 'px';
         star.style.width = 1 + 'px';
-        star.style.height = 200 + 'px';
+        star.style.height = 60 + 'px';
         star.style.animationDuration = duration + 's';
         
         scene.appendChild(star);
